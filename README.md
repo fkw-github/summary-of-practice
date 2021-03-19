@@ -1,7 +1,7 @@
 # This project is a collection of different technologies to learn, each branch represents each technology family !
-  ## now complete technology
-  - vuex
+  ## in progress 
+  - vuex === 80%
   
-  ## future complete technology
+  ## future complete 
   - vue-router
   - axios
